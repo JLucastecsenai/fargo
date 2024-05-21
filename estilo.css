@@ -1,0 +1,27 @@
+p, h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    text-align: center;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+.texto1{
+    color: #0e95cf;
+}
+.img_fargo{
+    width: 750px;
+}
+.titulo1{
+    text-align: justify;
+}
+.texto2{
+    text-align: justify;
+}
+span{
+    color: #0e95cf;
+}
+.texto3{
+    border-left: #0e95cf solid 3px;
+    text-align: justify;
+}
